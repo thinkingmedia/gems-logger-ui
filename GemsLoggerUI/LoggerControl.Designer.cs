@@ -1,4 +1,4 @@
-﻿namespace LoggerUI
+﻿namespace GemsLoggerUI
 {
     partial class LoggerControl
     {

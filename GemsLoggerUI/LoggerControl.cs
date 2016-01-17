@@ -2,11 +2,11 @@
 using System.Diagnostics;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
-using Logging;
-using Logging.Formatters;
-using Logging.Writers;
+using GemsLogger;
+using GemsLogger.Formatters;
+using GemsLogger.Writers;
 
-namespace LoggerUI
+namespace GemsLoggerUI
 {
     /// <summary>
     /// A control the prints the contents of the Log file.
